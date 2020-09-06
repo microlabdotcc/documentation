@@ -1,6 +1,6 @@
 # Présentation de 'microlab.cc'
 
-Le but du projet [microlab.cc](https://www.microlab.cc) est de développer pour le collège et le lycée du matériel de laboratoire "open source" en kit facile à monter et diffuser dans les établissements. Le site, la documentation, le code, les plans et les fichiers pour imprimantes 3D sont sous licence [CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+Le but du projet [microlab.cc](https://www.microlab.cc) est de développer pour le collège et le lycée du matériel de laboratoire "open source" en kit facile à monter et diffuser dans les établissements, ainsi  que des supports pédagogiques pour les enseignements de Technologie, Physique-Chimie, Enseignement Scientifique... Le site, la documentation, le code, les plans et les fichiers pour imprimantes 3D sont sous licence [CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 **Caractéristiques des modèles**
 
