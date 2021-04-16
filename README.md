@@ -7,10 +7,9 @@ Le but du projet [microlab.cc](https://www.microlab.cc) est de développer pour 
 * microcontrôleurs programmables en Python : Seeeduino XIAO, Adafruit Trinket M0, Adafruit ItsyBitsy M0 Express, ESP32 \(wifi, bluetooth\)...
 * capteurs / composants actifs : ultrasons, sons, champ magnétique, mouvement, longueurs d'onde, intensité lumineuse, composants chimiques \(CO, CO2, alcools, particules fines...\), température, pression , humidité...
 * optionnel : alimentation via des cellules photovoltaïques pour une utilisation simple du matériel et pour éviter les contraintes de lieu \(laboratoire, salle classique, extérieur...\)
+* boîtiers et accessoires réalisés avec une imprimante 3D
 
-  boitiers et accessoires réalisés avec une imprimante 3D
-
-Si vous souhaitez participer au projet vous pouvez : [contact](mailto:contact@microlab.cc)
+Si vous souhaitez participer au projet : [contact](mailto:contact@microlab.cc)
 
 Les programmes et les fichiers sont hébergés sur [GitHub](https://github.com/microlabdotcc), et la documentation sur [GitBook](https://docs.microlab.cc).
 
